@@ -1,4 +1,5 @@
 
+
 #!/bin/bash
 
 AMI_ID="ami-09c813fb71547fc4f"
